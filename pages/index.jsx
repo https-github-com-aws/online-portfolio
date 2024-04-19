@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-I am a professional editor and software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management.
+I am a Competitive Programmer, Mentor and Software Developer. TS/JS, Swift solution consultant.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
@@ -40,7 +40,7 @@ I am a professional editor and software developer. I have been professionally in
               
             </div>
             <br></br>
-            <span style={{ zIndex: '-1' }} className="text-white/5 absolute bottom-3 left-7 text-xl sm:text-2xl md:text-4xl lg:text-3xl font-semibold">Community Manager</span>
+            {/* <span style={{ zIndex: '-1' }} className="text-white/5 absolute bottom-3 left-7 text-xl sm:text-2xl md:text-4xl lg:text-3xl font-semibold">Community Manager</span> */}
           </div>
       </div>
     </>

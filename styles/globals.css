@@ -4,9 +4,9 @@
 
 
 html {
-  background: rgb(255, 255, 255);
+  background: rgb(65, 65, 65);
   --scrollbar-background: #434243;
-  color: #000000;
+  color: #ffffff;
 }
 
 ::-webkit-scrollbar {
@@ -131,5 +131,5 @@ html {
     margin-bottom: 5px;
 }
 .text-online {
-    color: #46f154;
+    color: #46f157;
 }
